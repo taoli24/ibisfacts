@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.header-image {
+    display: block;
+    margin: auto;
+    width: 20vw;
+}
